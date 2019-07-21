@@ -79,3 +79,5 @@ df = pd.DataFrame(df, columns = chosen_columns) # ve yeniden şekillendiriyoruz
 df.sample(5) #seçilenlerden rastgele 5 tanesini istiyoruz
 
 df.set_index('Name', inplace=True) #indexi name göre yapıyoruz ve boş olanları atıyoruz
+
+df.describe() # data framemizin count,mean,standart devision,minimum Q1,Q3,medyan ve maximun gibi değerleri sorguladık
