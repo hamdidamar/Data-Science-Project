@@ -2,6 +2,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 fifa = pd.read_csv('fifa_19.csv') #kullanacağımız kütüphaneler datamızı import ettik
 
