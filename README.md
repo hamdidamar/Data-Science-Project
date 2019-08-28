@@ -14,6 +14,11 @@
   
 <p>Deprem verilerini kullanarak python dilinde pandas,numpy,matplotlib,seaborn kütüphaneleri yardımı ile veri analizi ve görselleştirmesi yapılmıştır.Proje geliştirilmeye devam edilecektir.<p/>
 
+<h3>Yok_Ogrenci<h3/>
+ 
+ <p>Yüksek Öğretim Kurumu 2018-2019 verilerini kullanarak python dilinde pandas,numpy,matplotlib,seaborn kütüphaneleri yardımı ile veri analizi ve görselleştirmesi yapılmıştır.Proje geliştirilmeye devam edilecektir.<p/>
+  
+  
 <h2>HEDEF<h2/>
 
 <p>Birden çok veri seti incelemesinde bulunup.Programlama dillerinden; Python ve R dillerinin kütüphanelerini kullanıp Veri analizi,Veri görselleştirmesi yapmak.Makine öğrenmesi ve Derin öğrenme algoritmaları kullanıp yapay zeka yolunda ilerlemek.<p/>
