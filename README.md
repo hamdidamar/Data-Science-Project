@@ -18,6 +18,8 @@
  
  <p>Yüksek Öğretim Kurumu 2018-2019 verilerini kullanarak python dilinde pandas,numpy,matplotlib,seaborn kütüphaneleri yardımı ile veri analizi ve görselleştirmesi yapılmıştır.Proje geliştirilmeye devam edilecektir.<p/>
   
+ <h3>Youtube_Analysis<h3/>
+ <p>Youtube verilerini kullanarak python dilinde pandas,numpy,matplotlib,seaborn kütüphaneleri yardımı ile veri analizi ve görselleştirmesi yapılmıştır.Amerika ülkesi verileri kullanılmıştır diğer ülkeler de yapılacaktır.Proje geliştirilmeye devam edilecektir.<p/>
   
 <h2>HEDEF<h2/>
 
