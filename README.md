@@ -21,6 +21,9 @@
  <h3>Youtube_Analysis<h3/>
  <p>Youtube verilerini kullanarak python dilinde pandas,numpy,matplotlib,seaborn kütüphaneleri yardımı ile veri analizi ve görselleştirmesi yapılmıştır.Amerika ülkesi verileri kullanılmıştır diğer ülkeler de yapılacaktır.Proje geliştirilmeye devam edilecektir.<p/>
   
+ <h3>Google_Play_Store<h3/>
+ <p>Google Play Store ve Kullanıcı verilerini kullanarak python dilinde pandas,numpy,matplotlib,seaborn kütüphaneleri yardımı ile veri analizi ve görselleştirmesi yapılmıştır.Amerika ülkesi verileri kullanılmıştır diğer ülkeler de yapılacaktır.Proje geliştirilmeye devam edilecektir.<p/>
+  
 <h2>HEDEF<h2/>
 
 <p>Birden çok veri seti incelemesinde bulunup.Programlama dillerinden; Python ve R dillerinin kütüphanelerini kullanıp Veri analizi,Veri görselleştirmesi yapmak.Makine öğrenmesi ve Derin öğrenme algoritmaları kullanıp yapay zeka yolunda ilerlemek.<p/>
